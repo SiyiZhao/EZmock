@@ -1,0 +1,7 @@
+**/__pycache__/
+*.o
+*.so
+build/
+python/EZmock.egg-info/
+python/EZmock/EZmock.c
+EZmock

@@ -16,5 +16,5 @@ INSTALL_DIR = ./build
 #     $(FFTW_DIR)/include    and    $(CFITSIO_DIR)/include
 # The library files should be in
 #     $(FFTW_DIR)/lib        and    $(CFITSIO_DIR)/lib
-FFTW_DIR = 
+FFTW_DIR = $(CONDA_PREFIX)
 CFITSIO_DIR = 
